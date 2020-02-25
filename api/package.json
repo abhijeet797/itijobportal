@@ -21,7 +21,7 @@
     "jsonwebtoken": "~7.2.1",
     "jssha": "1.6.0",
     "moment": "^2.19.3",
-    "morgan": "~1.7.0",
+    "morgan": "~1.9.1",
     "mustache": "^2.3.0",
     "mysql": "^2.15.0",
     "mysql-queries": "^0.2.0",
